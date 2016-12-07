@@ -1,13 +1,10 @@
-# miniurl
-
-PYTHON FLASK
+# MINIURL (PYTHON FLASK)
 
 make a shorter url generator
 
 example:
   http://www.google.com/images/meong/kiratakada
  
-to be :
-
+become: 
   http://scp4.me/jahsfk
 
